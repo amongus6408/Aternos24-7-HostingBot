@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "mambo00.aternos.me",
-    "port": 25946,
+    "port":25946,
     "version": "",
     "try-creative": false
   },
